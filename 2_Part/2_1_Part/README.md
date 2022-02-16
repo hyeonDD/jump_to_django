@@ -43,7 +43,7 @@ localhost:8000/pybo
 
 ![2-01_2.png](https://github.com/hyeonDD/jump_to_django/blob/main/2_Part/2_1_Part/2-01_2.png)
 
-![err_404png](https://github.com/hyeonDD/jump_to_django/blob/main/2_Part/2_1_Part/err_404png)
+![err_404png](https://github.com/hyeonDD/jump_to_django/blob/main/2_Part/2_1_Part/err_404.png)
 
 이 오류는 왜 발생했을까? 장고는 사용자가 웹 브라우저에서 /pybo/라는 페이지를 요청하면 해당 페이지를 가져오는 URL 매핑이 있는지 cofig/urls.py 파일을 뒤져 찾아본다. 그런데 아직 /pybo/ 페이지에 해당하는 URL 매핑을 장고에 등록하지 않았다. 그래서 장고는 /pybo/ 페이지를 찾을 수 없다고 메시지를 보낸 것이다.
 
