@@ -5,3 +5,9 @@
 1. urls.py 파일을 이용해 URL과 매핑되는 뷰 함수를 관리한다.
 2. 장고 ORM을 이용해 데이터베이스를 제어한다.
 3. 파이보 게시판에 질문 목록과 질문 상세 기능을 만든다.
+
+<a href="https://pybo.kr/" target="_blank">pybo 서비스 홈페이지</a>
+
+<a href="https://wikidocs.net/book/4223" target="_blank">jump to django</a>
+
+<a href="https://wikidocs.net/book/5445" target="_blank">파이썬 라이브러리</a>
